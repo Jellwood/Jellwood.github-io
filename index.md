@@ -1,6 +1,6 @@
 ## Welcome to my blog!
 
-## [Posts](/docs/posts.md)
+## [Posts](docs/posts.md)
 
 I am a senior at College of Charleston, pursuing a B.S. in Computer Science
 as well as minors in math and Russian studies. I intend to go into software
