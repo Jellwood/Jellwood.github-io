@@ -1,5 +1,6 @@
 ## Welcome to my blog!
 
+**All Posts live on the Posts Page!**
 ## [Posts](docs/posts.md)
 
 I am a senior at College of Charleston, pursuing a B.S. in Computer Science
