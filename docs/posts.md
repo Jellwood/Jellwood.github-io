@@ -37,3 +37,51 @@ _Colleagues:_ A newer software engineer joins the team and starts pitching ideas
 _Self:_ A software engineer has been employed at a firm for 10 years. In 8 of those years, she has attended ACM conferences to watch presentations of research in the software engineering field.
 
 1.10: The ethical implications of working on a system to track citizens of a country and their actions as they relate to the ACM Code of Ethics are as follows. First, the public interest is both supported and subverted by the development of this type of software. Naturally, the public interest would be served by preventing or at the least, curtailing, terrorism attacks in a country. However, the public interest is also subverted by privacy disruptions. One organization that is able to collect data on every citizen will be vulnerable to cyber attacks, and that data could be released to cause significant harm to those affected by the leaks, including citizens getting stalked, doxxed or even murdered. The ethical ramifications of being a part of this development could result in a significant boost in hate crimes in addition to the complete destruction of privacy. 
+
+_**HW2**: Reflections on software engineering practices_
+
+Some of the most severe issues facing software engineers and software engineering
+as a discipline are problems that regard the primary nature of software
+development as obstacles. The issues facing this comes from the fact that
+software engineering as a whole is a fairly new profession, really only
+catching on in the 1950s and 1960s. Giving a liberal estimate, there has
+really only been 70 years to formalize the ideas that provide productivity
+boosts as well as make software engineers and developers have less trouble
+doing their job and doing it well. In addition to this, in the beginning,
+the cost of hardware far exceeded the cost of software. This trend has reversed
+immensely with software being much more expensive to develop in comparison to
+hardware. As the problems changed, the formalisms that dictated the values of
+preserving hardware had to shift to focus on how to develop software efficiently.
+Another difficulty is the localization of software engineering and how
+different companies approach the issues that face their enterprise. In Google's
+first iteration of their code base, there was one repository of code that every
+developer took from. Surprisingly, however, even today, they still work from a
+central repository. In fact, instead of migrating to Git or a version control
+system, they maintain the central repository and have developed tools to
+work with the fact that they do not have separate repositories for each team
+or each department. However, any other enterprise that attempts that approach
+will likely result in disaster. Why then, does it work for Google. The difference,
+I believe, lies in the people that work for the enterprise. Just as the famous
+No Silver Bullet article mentions, there is no "one way" to develop software.
+As a society, we can define processes and products that may help, but just as
+some programmers prefer Vim to VSCode or any other text editor, a one-size-fits-all
+approach may be impossible, in fact, there may not be one solution. How, then, do
+we quantify usefulness of practices of programming and developing software? Turning
+attention to online help columns reminiscient of the days of Dear Abby, there may
+not be a solution that results in universally useful information. For example,
+using the scientific method as a backbone for coding and developing software is
+generally a good idea. It focuses the idea behind the implementation and helps
+to eliminate ideas that already failed. It also serves as documentation for the
+thought process that led to the solution in addition to possibly discovering
+potential test cases. However, take the Google code base again. Commits to the 
+repository are done pending a pass from the code directory owners, much like a 
+merge request in Git. The difference relates to the nature of the code repository.
+Instead of a merge request, all work is done on the cloud, where each developer
+can see each other's work in real-time, and utilizes auto-commit options to 
+allow for concurrent work across the globe. However, needing to utilize the 
+scientific method in every "merge" case, would likely eat up more time than would
+save from the code review having documentation. An enterprise running version
+control on Git, on the other hand, could benefit greatly from a requirement to
+use and document the scientfic method in development. Ultimately, the only
+thing that can truly be defined as a "silver bullet" can only be a silver bullet
+for the beasts we face in our own environment.
