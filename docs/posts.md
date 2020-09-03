@@ -85,3 +85,43 @@ control on Git, on the other hand, could benefit greatly from a requirement to
 use and document the scientfic method in development. Ultimately, the only
 thing that can truly be defined as a "silver bullet" can only be a silver bullet
 for the beasts we face in our own environment.
+
+
+_**HW3**: Chapters 11 & 12_
+
+11.4: The one thing in common that all architectures that are designed
+to support software fault tolerance is that they are all geared at
+redundancy with regards to operation. Any architecture that provides fault
+tolerance has the ability to run the operation multiple times
+and then compare the different answers to determine whether there had been any
+failure at any part of the calculations. As well, some systems also have backups
+so that in the event of a failure of the primary system, the secondary system
+can perform the calculations necessary to aborting the program without loss of life.
+
+11.7: N-version programming for controlling a radiation therapy machine is
+arguably a very bad idea. The problem inherent in using N-version programming as
+a control system. First, the idea of using N-version programming would require
+much more development teams and the cost of development would go up 
+disproportionately. While radiation therapy software is extremely safety-critical,
+self-monitoring architecture would provide much more robust protection. In
+addition, it is far more important that a radiation therapy machine is
+reliable, and works under the assurance that the program is correct, as opposed
+to available. Availability is far less important in terms of the operation
+of radiation therapy, because radiation therapy issues can lead to serious
+injury or death.
+
+11.9: A program that requires a large amount of availability should have robust
+exception handling because exceptions allow for the program to avoid error
+conditions that would otherwise crash the program. Having an excess of these
+inputs that cause crashing ultimately undermines the goal of availability
+and without those exceptions, attackers could leverage these values to
+bring down services, antithetical to availability.
+
+12.4: Five functional requirements that would be generated from the safety
+requirements would be that (1) the program will be able to determine the 
+track segment light and ensure the signal is red, (2) the program must be able
+to accurately determine the speed that the train is moving, (3) the program
+must be able to determine the speed limit that a track has, (4) the program must
+be able to ensure that the comparisons between the speed and the speed limit
+are accurate, and (5) the program must be able to employ the brakes quickly
+and effectively without causing harm to the train or the passengers inside.
