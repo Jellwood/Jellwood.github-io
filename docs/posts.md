@@ -178,7 +178,7 @@ _**HW5**: Chapter 4 and Reflections_
 The gas pump shall read the card that is swiped.  
 The gas pump shall transmit the necessary information in a secure manner.  
 The gas pump shall dispense the correct amount of gas.  
-The gas pump shall debit the correct amount to the users account.  
+The gas pump shall debit the correct amount to the user's account.  
 The gas pump shall verify that the card is valid before pumping gas.  
 The gas pump shall output receipts.  
 
