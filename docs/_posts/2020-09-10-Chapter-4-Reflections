@@ -1,0 +1,70 @@
+4.5  
+The gas pump shall read the card that is swiped.  
+The gas pump shall transmit the necessary information in a secure manner.  
+The gas pump shall dispense the correct amount of gas.  
+The gas pump shall debit the correct amount to the users account.  
+The gas pump shall verify that the card is valid before pumping gas.  
+The gas pump shall output receipts.  
+
+The ATM shall verify that there is enough money in the account before dispensing any money.  
+The ATM shall verify that there is enough money in the ATM before dispensing money.  
+The ATM shall not dispense any money that is not available for the user.  
+The ATM shall be able to process withdrawals and deposits of all types.  
+The ATM should be able to perform efficiently.  
+The ATM shall be able to output receipts.  
+
+The facility shall verify that both accounts are valid before transfer.  
+The facility shall verify that the account that is transferring money has enough money.  
+The facility shall make sure that the transaction goes through in full or is cancelled.  
+The facility should make funds available as quickly as possible.  
+The facility shall keep a log of all transactions made on any given day.  
+The facility shall be able to retrieve past logs.  
+
+4.6  
+A good way that an engineer may keep track of the relationships between
+functional and non-functional requirements effectively would be to create
+a tree graph with functional requirements being the roots of the trees
+while leaves connect to pertinent functional requirements from non-functional
+requirements. Leaves can connect in a many-to-one fashions.  
+
+4.7  
+A user approaches the ATM and inserts their bank card. The ATM reads the card 
+and the ATM asks what functionality the user wants. The user selects "Deposit" 
+and the ATM prompts the user for the money or check that the user wants to 
+deposit along with the amount the user wishes to deposit. Upon putting the money 
+in the ATM, the ATM checks that the amount inserted and inputted are the same 
+amount. If the amounts match up, the money is credited to the account. In the 
+case that they are not, the ATM displays a message and the transaction is voided.
+
+A user approaches the ATM and inserts their bank card. The ATM reads the card and
+the ATM asks what functionality the user wants. The user selects "Withdrawal" and
+the ATM displays the accounts eligible for withdrawal. The user selects which 
+account the user wishes to withdraw from and then asks for the amount to withdraw. 
+In the case where there is enough money, the ATM dispenses the correct amount 
+and the account is debited the amount. In the case where there is not enough 
+money, the ATM displays a message and the transaction is voided.  
+
+Reflections:
+The articles in their entirety reflect the somber truth of software engineering and 
+computer science. Ultimately, the profession is driven by humans 
+and software engineering is a profession that draws in some of 
+the most intelligent and innovative individuals that exist in the world. 
+With that brilliance comes hubris, and a remarkable amount of work goes into 
+figuring out how to ensure that the productivity of software engineers do not get
+overshadowed by their own personality. As such, procedures like Test Driven 
+Development are implemented to ensure that the code being created does not get 
+backed up by adding features that are unfeasible to test or too imposing. The 
+reason this exists is that many engineers do not take into account the factors that 
+affect the security and performance of the program. For example, in the case of the 
+tire pressure gauge sensor, it is very difficult to determine the case where 
+an attacker is able to spoof a signal from a sensor, where researchers could 
+replicate this attack cheaply. This does not get helped by the extreme range in 
+time that laws can be passed to ensure security and safety. For example, take the 
+research paper that exploited Tire Pressure Gauge Sensors in 2010. Now, the law 
+specifically outlining what must be protected by the United States Government was 
+not brought forth until 2015. There is absolutely no way that a government is 
+able to push forth laws that will keep up with cybersecurity requirements and as 
+such, the software engineer must be aware of these potential breaches and 
+determine what data must be protected. Society will continue integrating systems 
+and software engineers must be able to create tests to secure programs for the 
+good of society.
