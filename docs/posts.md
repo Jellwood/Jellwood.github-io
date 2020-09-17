@@ -244,3 +244,35 @@ such, the software engineer must be aware of these potential breaches and
 determine what data must be protected. Society will continue integrating systems 
 and software engineers must be able to create tests to secure programs for the 
 good of society.
+
+_**HW6**: Chapter 2_
+
+Ex. 2.1:
+
+In order to develop a system to control antilock braking in a car, a waterfall
+approach would be the best software development process. The reasons for this is
+that there was a veritable amount of safety requirements and regulations that
+the software must pass in order to be integrated. As well, the waterfall
+method requires a significant amount of documentation to support the development
+process. As a result, in the case of failure, the company can hold those
+accountable for any failures.
+
+In order to develop a virtual reality system to support software maintenance, 
+the integrate and configure approach would be the best process to develop 
+the software. As virtual reality software is being developed en force these days,
+it would not be unfeasible to find software that could potentially support
+this endeavor.
+
+In order to develop a university accounting system that replaces an existing system, the waterfall method would also be advantageous for this approach.
+Given that there is already an existing system, it is likely that the
+specifications are well-known and understood. As well, there is a large base
+of knowledge that the software engineers can build on.
+
+In order to develop an interactive travel planning system that helps users 
+plan journeys with the lowest environmental impact, the incremental development
+approach would work best. As the sources for lowest environmental impact shifts,
+it may be a great way to ensure that the client is satisfied with the ability
+to determine the lowest environmental impact. As well, it would not be infeasible
+to produce a working prototype that is ready for production that may not
+optimally determine the lowest environmental impact but may suggest trips that
+are close to optimal.
