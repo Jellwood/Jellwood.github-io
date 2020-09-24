@@ -1,4 +1,5 @@
-_**HW7**: Chapter 5 and 6_
+_**HW7**: Chapter 5 and 6_  
+
 [5.3](CSCI362 Activity Diagram1.pdf)
 
 [5.5](CSCI362 Sequence Diagram1.pdf)
