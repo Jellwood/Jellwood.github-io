@@ -1,10 +1,3 @@
-_**HW7**: Chapter 5 and 6_  
-[5.3](CSCI362 Activity Diagram1.pdf)  
-[5.5](CSCI362 Sequence Diagram1.pdf)  
-[5.7](CSCI362 Activity Diagram2.pdf)  
-[5.8](CSCI362 Sequence Diagram2.pdf)  
-
-_**HW8**: Mythical Man-month Response_  
 The Mythical Man-Month provides a potential answer for the 
 burning questions surrounding software engineering. How do
 managers contend with the potential issues concerning software
