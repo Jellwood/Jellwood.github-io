@@ -56,4 +56,29 @@ control, it becomes much easier to trace where specific problems lay and
 who is implementing this. This makes it much easier to solve these types 
 of issues. Ultimately, the best solution is to create an ecosystem where
 everyone is held accountable for their mistakes and implement ways to 
-ensure that everyone knows their parts.
+ensure that everyone knows their parts.  
+
+_**HW9**: Chapter 8 and reflections on testing_  
+_8.7_: A scenario that could be used for testing of the wilderness weather 
+station system would be that a storm is coming into the area that the 
+station is located in. The station goes into power save mode to ensure 
+that the station is not without power, and reports the weather.  
+
+_8.10_: The ethics of exhausting the testing budget is an extremely 
+risky decision, especially if it is being delivered to an external 
+customer. Given that budgeting decisions are rarely made at the software 
+engineer level, they are given the budget to make the product. However, 
+spending additional money that may not affect the final condition of the 
+product is a move that is likely to decrease faith in the company. More 
+time testing does not equate to a better product. Because of this, 
+it is unethical to spend more money that may not affect the product after.
+
+_Reflections_: Testing is a vital part of software engineering and 
+software development. Without testing, programs that are released 
+are extremely likely to have errors that would potentially result 
+in death or serious injury to others. Without testing, software engineers 
+have the potential to destroy society as we know it. Just as engineers 
+have to get their plans approved, software engineers have the 
+requirement to make sure their software is as strong as they can to ensure 
+that they do not hurt people. Without proper testing, software engineers 
+cannot create programs with any shred of confidence in their work.
