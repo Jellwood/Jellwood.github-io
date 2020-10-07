@@ -82,3 +82,26 @@ have to get their plans approved, software engineers have the
 requirement to make sure their software is as strong as they can to ensure 
 that they do not hurt people. Without proper testing, software engineers 
 cannot create programs with any shred of confidence in their work.
+
+_**HW10**: Chapter 15_  
+_15.10_: The reuse of software provides a number of issues legally, 
+especially with regards to copyright. The issue with the idea that the 
+contractor has a right or no right to reuse the code primarily lays with 
+the responsibility of the contractor to determine this conflict. 
+Given that the contractor knows and is responsible for their own 
+profession, the contractor is responsible to determine who legally 
+possess the code, whether it be independently or through a legal 
+department with regards to a corporate entity. Given that many 
+companies employ an intellectual protection clause, the code is, at the 
+very least, the property of the company that the contractor is 
+employed at. For a dispute, in the event that the contractor did not 
+take precautions to mitigate this issue, the determining factor would have 
+to be whether the software was contracted to sell or develop. In the case 
+of sale, the customer should retain all legal rights to the software, 
+unless stated otherwise.  
+As well, the issue with regards to whether the developer has the right 
+to reuse the code in a generic capacity relies on who the property 
+is attributed to. In the instance where the property is owned by the 
+company, provided that the company still employs the developer, it is 
+not a breach of intellectual property. As such, the developer is free 
+to do so, provided the company allows this.  
