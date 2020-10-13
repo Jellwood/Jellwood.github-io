@@ -105,3 +105,33 @@ is attributed to. In the instance where the property is owned by the
 company, provided that the company still employs the developer, it is 
 not a breach of intellectual property. As such, the developer is free 
 to do so, provided the company allows this.  
+
+_**HW11**: Chapter 9_  
+_9.8_:  
+The first type of maintenance is "Corrective Maintenance," which 
+is maintenance where the developer corrects any faults in the code. This 
+results in code repairs to prevent incorrect operation of the program. 
+This is generally much more urgent, depending on the type of program 
+being maintained. "Adaptive Maintenance" is the process of having the 
+program being integrated into the environment better and creating 
+a better environment, while also potentially adapting to new requirements. 
+"Perfective Maintenance" is perfecting the program and implementing new 
+requirements. These are hard to distinguish because primarily, the act of 
+doing one type of maintenance usually implies the others. In correcting 
+the code, it is very likely you will have to integrate it into the 
+environment much better, as well as perfecting it to ensure that further 
+maintenance does not become required further on.  
+
+_9.10_:  
+Developers do have a professional responsibilty to develop code that can 
+be easily maintained, even if there is not an explicit demand to do so. 
+This is mostly due to the fact that in professional work, it is 
+certain that any developer would likely encounter code that was developed 
+by someone else and that developer would be out of straits if they were 
+forced to figure out and decipher unintelligible code to then maintain it. 
+Regardless of how the publishing of code that is of poor quality reflects 
+on the developer, it is also very true that paying forward good quality 
+code generally puts other developers in a better case in terms of 
+maintaining their code in the future. In creating this ecosystem of 
+maintainable code, it becomes possible to create a positive impact on 
+the quality of code in the world.
