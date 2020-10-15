@@ -134,4 +134,22 @@ on the developer, it is also very true that paying forward good quality
 code generally puts other developers in a better case in terms of 
 maintaining their code in the future. In creating this ecosystem of 
 maintainable code, it becomes possible to create a positive impact on 
-the quality of code in the world.
+the quality of code in the world.  
+
+_**HW12**: Chapter 16_:  
+Call-logging component:  
+Requires: Phone number (String), Name (String), Date call made (Date), 
+Time call made (Time), Description (String), CallID (int)  
+Provides: Log Entry (File)  
+Methods:  
+createFile(String Name, String phoneNumber, DateTime time, String Description)
+returnFile(int CallID)  
+
+Vehicle Discovery Component  
+Requires: Postal Code (String), Incident Type (String)  
+Provides: Vehicle ID (Int), Vehicle Type (String)  
+Methods:  
+stripPostalCode(String postalCode)  
+getListofVehicles(String incidentType)  
+calculateClosestVehicle(String vehicleType)
+
