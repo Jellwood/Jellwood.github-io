@@ -151,5 +151,32 @@ Provides: Vehicle ID (Int), Vehicle Type (String)
 Methods:  
 stripPostalCode(String postalCode)  
 getListofVehicles(String incidentType)  
-calculateClosestVehicle(String vehicleType)
+calculateClosestVehicle(String vehicleType)  
 
+_**HW13**: Chapter 17_  
+One of the biggest risks moving to accessing the services remotely would 
+be resources to access these functionalities in the workspace. Provided 
+that all of the computers are on the company internet network, as would 
+be expected, if there is not enough bandwidth to access these 
+functionalities, workers can experience a decrease in performance. The 
+best way to mitigate this would be to stress test the network prior to 
+switching to make sure that the added stress would not break the 
+network.   
+Another risk inherent in switching over would be the training in catching 
+up employees to the new functionalities. Even if the application and 
+services are identical in functionality, the new way of accessing them and 
+performing work flow with them may be disrupted, especially if there are 
+some employees who use custom automated tools to perform very repetitive 
+tasks. These new services may not work well with these tools and 
+resistance may be met with switching over. The best way to handle this is 
+to perform a training seminar going over some basic functionalities and 
+help the employees find more advanced functionalities.  
+The third risk inherent in switching is the updating of the service. With 
+a desktop application, updating is something that can be done 
+automatically from a remote connection with the administrator. A remote 
+service, however, is updated by the vendor, and any updates that may be 
+needed (especially for bugs that leak information) may take longer to 
+repair, whereas a desktop application could be rolled back to an earlier 
+version. The best way to mitigate these risks would be to be aware of 
+new versions coming out and be prepared to adapt to an environment that 
+may change based on vulnerabilities.
