@@ -179,4 +179,42 @@ needed (especially for bugs that leak information) may take longer to
 repair, whereas a desktop application could be rolled back to an earlier 
 version. The best way to mitigate these risks would be to be aware of 
 new versions coming out and be prepared to adapt to an environment that 
-may change based on vulnerabilities.
+may change based on vulnerabilities.  
+
+_**HW14**: Chapter 18_  
+Currency Converter API  
+Input:   
+value: double  
+inCurrency: String  
+outCurrency: String  
+
+Methods:  
+getConversionFactor(String, String) -> double  
+validateCurrencyType(String) -> bool  
+convertValue(double, double) -> double  
+
+Outputs:  
+convertedCurrency: double  
+
+Exceptions:  
+illegalCurrencyValue: inCurrency is less than or equal to 0  
+
+Credit Checker API  
+Inputs:  
+SSN: String  
+firstName: String  
+lastName: String  
+dateOfBirth: Date/Time  
+creditUnion: String
+
+Methods:  
+validateInfo(String, String, String, Date/Time) -> Boolean  
+getCreditScore(String) -> int
+selectCreditUnion(String)  
+
+Outputs:  
+creditScore: int  
+
+Exceptions:  
+invalidInfo: User provides invalid information  
+unableToValidate: Resources to validate are down  
