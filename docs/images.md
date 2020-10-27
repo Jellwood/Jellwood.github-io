@@ -218,3 +218,12 @@ creditScore: int
 Exceptions:  
 invalidInfo: User provides invalid information  
 unableToValidate: Resources to validate are down  
+
+_**HW15**: Chapter 19_:  
+The problem with attempting to ascertain the emergent properties of 
+a complex system based on the system components is that many of 
+the emergent properties of a system primarily arise based on the 
+user of the system itself, not the components that comprise the 
+system. Because of that, the software engineers in charge of 
+developing the software can only theorize what issues may arise in the 
+use and deployment of the software.
