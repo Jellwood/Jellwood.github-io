@@ -226,4 +226,25 @@ the emergent properties of a system primarily arise based on the
 user of the system itself, not the components that comprise the 
 system. Because of that, the software engineers in charge of 
 developing the software can only theorize what issues may arise in the 
-use and deployment of the software.
+use and deployment of the software.  
+
+_**HW16**: Chapter 20_  
+The ethics behind changing the interface in order to coerce users to pay 
+more without notice is a very unethical decision. This is primarily 
+because the companies that use the system of systems has entered in an 
+agreement that the company providing the system will treat the customers 
+in an ethical manner and any price raises will be telegraphed appropriately. 
+Because of this, the provider of the system has unfairly and unethically 
+treated the customers, and the customers are justified in seeking a new 
+provider. The provider's employees likely will not be okay with this 
+change, especially if, prior to that, the company had engaged in 
+ethical behavior. As for the customers, it is very easy to see that they 
+would not be okay with this, especially if the reason for the price hikes 
+are extremely opaque or worse, horribly transparent with deception. 
+The company's shareholders is a much more contentious issue. At the end of 
+the day, shareholders buy stock in companies to gain money, and the 
+bottom line is that they may be more interested in a short-term financial 
+gain in an unexpected price hike than in a long-term financial gain from 
+providing a better service. This is especially true if the service exists 
+in a monopolistic environment, where there are not any good alternatives. 
+Because of this, the shareholders may see no issue with a price hike.
