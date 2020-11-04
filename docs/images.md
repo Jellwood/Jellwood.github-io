@@ -247,4 +247,16 @@ bottom line is that they may be more interested in a short-term financial
 gain in an unexpected price hike than in a long-term financial gain from 
 providing a better service. This is especially true if the service exists 
 in a monopolistic environment, where there are not any good alternatives. 
-Because of this, the shareholders may see no issue with a price hike.
+Because of this, the shareholders may see no issue with a price hike.  
+
+_**HW17**: Team Progress 1_  
+Overall, the team work is progressing very nicely. The team has adjusted 
+to the work dynamic and work is getting done when it needs to get done. 
+There is definitely some difficulty with the COVID-19 restrictions that 
+presents some issues for meeting, however, online meetings have in some 
+ways made meeting during off times much easier. The work division has been 
+a little bit harder to determine, seeing as the group members have had 
+little experience with bash scripting, however, the group adapted and 
+have produced a bash script that works as intended. Given that we have the 
+files ready, extending from 5 files to 25 files should be no issue at 
+all.
