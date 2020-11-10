@@ -260,3 +260,18 @@ little experience with bash scripting, however, the group adapted and
 have produced a bash script that works as intended. Given that we have the 
 files ready, extending from 5 files to 25 files should be no issue at 
 all.
+
+_**HW18**: Chapter 21 and Chapter 22_  
+21.4: An object-oriented approach to real-time systems may not be suitable 
+because object-oriented approaches use encapsulation, which means that 
+multiple components have to interact which takes a significant amount 
+of time (relative to the computer time). Real-time systems are evaluated 
+on both accuracy and speed, so the slowing down due to data hiding usually 
+ends up being a hindrance to ensuring the system is responsive enough.  
+22.6: One significant addition to the risk is the outsoourcing to new 
+developers and passing tasks to another group. That shift in 
+responsibility may end up causing significant issues, especially if the 
+contractors perform work that is hard to understand or unable to meet 
+the specifications and more optimizations must be made. As well, the 
+organization responsible for the contract may go out of business or have 
+to reduce staff, which would also cause significant risk.
