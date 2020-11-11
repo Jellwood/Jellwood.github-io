@@ -274,4 +274,7 @@ responsibility may end up causing significant issues, especially if the
 contractors perform work that is hard to understand or unable to meet 
 the specifications and more optimizations must be made. As well, the 
 organization responsible for the contract may go out of business or have 
-to reduce staff, which would also cause significant risk.
+to reduce staff, which would also cause significant risk.  
+
+_**HW19**: Chapter 23_  
+[Schedule Timeline](CSCI362Diagram.pdf)
