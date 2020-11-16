@@ -277,4 +277,15 @@ organization responsible for the contract may go out of business or have
 to reduce staff, which would also cause significant risk.  
 
 _**HW19**: Chapter 23_  
-[Schedule Timeline](CSCI362Diagram.pdf)
+[Schedule Timeline](CSCI362Diagram.pdf)  
+
+_**HW20**: Team Progress II_  
+Overall, the work in the team has been progressing along extremely well. 
+The division of work is working very well, and the wide variety of skills 
+between the team members makes shuffling tasks easier. Repositioning is 
+something that has been very easy, especially among the tasks that are 
+less intensive in learning. This allows for a significant amount of 
+versatility in the team workload. Much more frequent conversation 
+has helped in getting everyone on the same page, and scaling to 25 
+test cases had no issues with the script itself. There were significant 
+issues again with string comparisons, which have been slow going.
