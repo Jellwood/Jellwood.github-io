@@ -288,4 +288,18 @@ less intensive in learning. This allows for a significant amount of
 versatility in the team workload. Much more frequent conversation 
 has helped in getting everyone on the same page, and scaling to 25 
 test cases had no issues with the script itself. There were significant 
-issues again with string comparisons, which have been slow going.
+issues again with string comparisons, which have been slow going.  
+
+_**HW21**: Chapter 24:_  
+Program inspections are an effective way to find errors in a program 
+by way of errors that tend to be related to human errors. In this class 
+are bugs related to infinite loops, missing parameters, and buffer 
+overflow. The advantage of program inspections are based in the fact 
+that many errors in programs can be attributed to human errors, such as 
+typos, and the solo programmer or pair programming pair may be too close 
+to the code to find typos or slight logic errors that show up and make 
+the program work in unexpected ways or present bigger issues later on. 
+The issue with inspections in finding types of errors that are specific to 
+the programming language or errors that are very obscure in the language. 
+These generally need inspections led by an expert in the language or 
+more complex debugging tools.
