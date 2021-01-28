@@ -52,4 +52,30 @@ their part. The users will eventually lost interest, but their contribution to t
 and the community are what will inevitably remain, and their duty, as stated in "The  
 Cathedral and The Bazaar," is to find a successor when they inevitably leave. This cycle  
 keeps Open Source projects alive and thriving, which guarantees free and open source  
-software for the world at large.
+software for the world at large.  
+
+_**HW2**: Reflections on Open Source in Today's World_  
+For the readings, I decided to take a different direction and explore options to customize and personalize my 
+workstation with regards to the terminal environment. For the entirety of my career in the computer science 
+department, I had spent the entirety of my time developing programs as needed and spending as little time 
+in my development environment after turning the IDE into dark mode. I never really spent a significant amount of time 
+customizing anything past that, nor did I ever feel a reason to do so. Reading both the articles "How I customize 
+my Mac terminal with open source tools" and "Drop bash for fish shell to get beautiful defaults," I determined that 
+perhaps I had not spent enough time developing my environment to get the most out of my time using the terminal. 
+Within a day of reading through the article championing FISh, I installed and looked around the features of FISh. 
+For one, the automatic complete based on history started working instantly, using my BASh history to determine 
+what commands I use the most often and even displaying a ghost of what the command should be. On top of this, any command 
+that was not valid is highlighted in red, changing to blue when a valid command is typed. The first thing that I tried 
+to do was to change to another directory and tabbing to autocomplete with multiple valid results, it displays all 
+possible commands. Of course, any quick search can talk about the features of FISh, this is to talk about what 
+these articles have to show about terminal customization and the bevy of features that can be customized. I had no 
+idea that the terminal could be customized to the extent that it could be. Within a few minutes of looking around, 
+FISh showed a significant amount of improvements to the BASh terminal that I had been accustomed to. This shift 
+opened my eyes to just how much I could change about my environment. Screenshots from the first article showed a 
+terminal that displayed the working directory and the branch of the git repository that the user was in, while 
+each of these displays had different colored backdrops for ease of view. As I type this blog post, the terminal, 
+now in FISh, displays master in parentheses, so I never forget which branch I am currently in. These little things 
+have accumulated into a mass of options to make my life easier. This is definitely just the beginning, as there is an 
+entire application to control the appearance of this terminal. Other options that were shown were zsh, which will 
+also be another consideration. On top of this, I can guarantee that my default shell will not be BASh by the end of 
+this semester.
