@@ -78,4 +78,32 @@ now in FISh, displays master in parentheses, so I never forget which branch I am
 have accumulated into a mass of options to make my life easier. This is definitely just the beginning, as there is an 
 entire application to control the appearance of this terminal. Other options that were shown were zsh, which will 
 also be another consideration. On top of this, I can guarantee that my default shell will not be BASh by the end of 
-this semester.
+this semester.  
+
+__This Bugs Me__: The oldest bug is actually testing and documentation fixes for a specific portion of the Feedback functionality of Teammates. My leading theory as to why 
+this has not been resolved yet is two-fold: firstly, the project is designed for students in a class such as this, to where it is a revolving door
+of contributors, in addition to the fact that documentation is usually pretty low on the list for what most developers want to do. This bug leads back to
+2014.
+I already have an account on the bug tracking website used to track the bugs and issues for the Teammates project, as it is utilizing Github to track 
+active bugs as well as version control. 
+Looking at the bug that I had identified as a problem to work on, I am having trouble getting the bug to reproduce, however, some more work 
+will easily reproduce it.
+Bug triage is a little bit of an issue at the current time as the development environment that I am working on is having some issues with properly
+tracking instructors being added to the development server. As a result, the ability to fix bugs in the environment is being tested.
+The biggest issue currently facing the fix of relevant bugs is getting the development environment restarted and getting instructors added to the program.
+Once that issue is resolved, work should progress significantly faster. This weekend will be a huge resource towards getting things working as intended. The front end and back end are 
+currently working together as far as things seem. There is a potential case to be made that 
+this is a fix for the issue is ensuring that the front end and back end are working together 
+properly. This restarting of this setup should hopefully result in a fix. In the case that 
+this does not work, the next step will be public outreach. The bug in question would 
+be the issue that a button will say "Save questions" regardless of how many questions are 
+actually entered. Because of this, it is important that the front end and back end are 
+cooperating, as questions can only be entered by instructors, not admins. Further testing 
+will be done to ensure this parity between the two and make sure both sides are communicating.
+Similarly, the breadth of bugs does not span just this issue, honestly, documentation fixes 
+are looking more and more appealing to work on, as the project is documented fairly well, but 
+the issues tracker mentions more and more testing should be done. As testing is a very 
+difficult skill to maintain, the use of this opportunity to develop this skill may be useful.
+As well, the front-end, built in HTML and Angular, is another great opportunity to hone 
+more skills, as front end development is a skill that, as a computer science major, I had 
+had no event to work on. 
