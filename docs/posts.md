@@ -106,4 +106,47 @@ the issues tracker mentions more and more testing should be done. As testing is 
 difficult skill to maintain, the use of this opportunity to develop this skill may be useful.
 As well, the front-end, built in HTML and Angular, is another great opportunity to hone 
 more skills, as front end development is a skill that, as a computer science major, I had 
-had no event to work on. 
+had no event to work on.  
+
+__What's Happening?__  
+For the article that I read through the IEEE Software journal, I read an article 
+discussing the issues and problems facing the peer-review process in the Software 
+Engineering field, and looking at the potential fixes for these issues. The editor 
+in chief mentions that a large part of the issue stems from the fact that either 
+reviewers are too busy to perform a high-quality review of the paper or that the metric 
+that judges how productive the scientific society is is flawed in some fashion. 
+Intrigued by this, the first thing I did after reading this article was to figure out 
+how the process works for the other sciences primarily. The first article I found was 
+an article about how the peer-review process for biological sciences is on the verge 
+of destruction from 2016. This was a result of fear that many researchers turning down 
+papers meant that the ones that were reviewing were actually providing high-quality 
+reviews, as well as a concern that the number of papers to be reviewed was reaching 
+a critical point, where reviewers would not be able to keep up. It is interesting that 
+these problems in other fields mirror the Software Engineering problems to the extent 
+that they do. However, I believe that there is a significant difference in computer 
+science from some other sciences, particularly those like biology and environmental 
+sciences. For example, in a quick search, I found a journal talking about synthetic 
+biology, a field focused on both turning unnatural chemistry into natural chemistry and 
+vice versa. One point of interest primarily is the ability to study Darwinian evolution 
+in an unnatural system. While this is focused on the changes over time, it does show a 
+very important point, the researcher has to observe changes, but in the time that it 
+takes for these changes to happen, it is possible to review papers, especially if the 
+changes occur over multiple days or even weeks. As a comparison, I would like to bring 
+in my own experiences performing researching for the College this summer. When 
+researching, there was very little "down-time". In addition, my advisor would 
+consistently highlight other papers for me to read as well, in addition to the other 
+students who were also working with him during the summer. This highlights a very 
+large problem: Provided that the reviewers are doing similar activities, when do the 
+reviewers place their review duties over their own research? As a result, I believe the 
+best course of action is to re-determine what success is in the Software Engineering 
+research community. A robust community of reviewers that may be smaller, yet provide 
+high-quality review may hurt in the short-term. Given the diverse nature of any 
+scientific field, including Computer Science, there will be gaps in the reviewers' 
+knowledge if the review community decides to shrink its' numbers. However, to say 
+that having this community will inevitably attract many more reviewers is a very likely 
+claim. Those who are passionate about research and can see that the community revolves 
+around making sure that reviews are accurate, helpful and high-quality will ultimately 
+recover the initial losses. I believe this is just a symptom of Computer Science still 
+being a relatively younger field of science and attempting to catch up to much more 
+older and more robust fields. As such, I believe a redefinition of success is much 
+more viable to protect the life and soul of Computer Science research.
