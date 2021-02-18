@@ -149,4 +149,61 @@ around making sure that reviews are accurate, helpful and high-quality will ulti
 recover the initial losses. I believe this is just a symptom of Computer Science still 
 being a relatively younger field of science and attempting to catch up to much more 
 older and more robust fields. As such, I believe a redefinition of success is much 
-more viable to protect the life and soul of Computer Science research.
+more viable to protect the life and soul of Computer Science research.  
+
+__Stupid or Solid?__  
+S.O.L.I.D code, an acronym for the principles that should be used in developing code, 
+is an interesting idea of how to easily remember these good coding principles. 
+For the S, the Single Responsibility Principle, is a principle that states that each 
+class should have one responsibility and do only one thing. This principle is 
+something that ultimately is understated in a lot of early programming classes which 
+leads to a very difficult learning curve for programmers looking to enhance their 
+skills, at least in my experience. What makes this principle remarkably difficult 
+to work with? First, a process of learning programming that focuses on learning THEN 
+optimizing and improving is ultimately very detrimental to developing these skills. 
+A relevant analogy would be teaching a doctor in medical school a specific way to 
+perform an operation, then in their residency telling them a better way to do that 
+same operation. The Single Responsibility Principle is without a doubt, one of the most 
+important principles of S.O.L.I.D code.  
+The O, the Open/Closed Principle, is a principle that focuses more on the privacy of 
+attributes in a class. The idea behind it is that the class should be open to extension 
+by interfaces and inheritance, but closed to modification, that every attribute should 
+be private but allow access by getters and setters, where you can do more robust 
+checking. The biggest reason this is an issue that is not taught very soon is that 
+it seems a lot of early classes focus primarily on "Good-Faith Actors," any user that 
+would not attempt to abuse any vulnerability for whatever gain they might procure. For 
+a first level computer science class, where students may not have the skillset to 
+properly verify inputs, this is okay, but at some point, this principle should be 
+taught very early on, again, as "bad-faith actors" are innumerable, and developing 
+software commercially opens the door to these actors exploiting vulnerabilities, 
+something that this principle aims to dissuade.  
+The Liskov Substitution Principle is a principle that states any use of a subclass 
+should be able to work as a superclass use without breaking the program. This process 
+works inheritance in a very interesting way, namely using the analogy of that a square 
+is a rectangle but a rectangle is not always a square. Because of this, we can see that 
+the Liskov Substitution Principle does not hold in this case, and in order to inherit 
+correctly, they should not have this relationship, and whatever superclass they have 
+should use be able to be used interchangeably. This alone is a very good view of 
+inheritance that is a really easy way to understand it without obfuscating details of 
+it.  
+The I, Interface Segregation Principle, is a principle that focuses on the 
+responsibilities of interfaces and how they work respectively with regards to classes 
+that inherit from them. The idea behind it is that inheriting from multiple interfaces 
+is better than just one overarching interface, and that makes the code more reusable. 
+This aims to make the interfaces used more generalized and make it such that the 
+interface is not specific to one use case. This achieves the ability to use the 
+interface in multiple cases, and even be reised throughout the project. The biggest 
+issue with this comes in the balancing act between this principle and the Single 
+Responsibility Principle.  
+The D, Dependency Inversion Principle, focuses again on interfaces and how the classes 
+that implement them should behave. From a common sense standpoint, this is easily the 
+most apparent principle, interfaces should be abstracted to the point of interfaces 
+and concrete classes should be abstracted to the concrete level. Any interface can 
+depend on another interface but using a concrete class in an interface greatly limits 
+the amount of use cases for an interface. Because of this, interfaces should stay 
+abstracted at the interface level.  
+Ultimately, these principles are extremely important and makes a lot of sense to be 
+teaching early on. Each of these principles creates a world where you are writing 
+extremely robust and reusable code. From my perspective, that is the difference between 
+a programmer and a software engineer, how much work is being put into writing 
+code of a signficant quality. 
