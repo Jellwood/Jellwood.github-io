@@ -206,4 +206,33 @@ Ultimately, these principles are extremely important and makes a lot of sense to
 teaching early on. Each of these principles creates a world where you are writing 
 extremely robust and reusable code. From my perspective, that is the difference between 
 a programmer and a software engineer, how much work is being put into writing 
-code of a signficant quality. 
+code of a signficant quality.  
+
+__Release Early and Often__  
+When a software project is being developed for commercial use, the big name in the 
+industry is "Agile," the principle that the client should be as involved with the 
+product development as much as possible and that their feedback makes the development 
+extremely easy to work with. The biggest ideal with this lies in the fact that this 
+feedback is more and more pertinent the closer the development is to the session. This 
+lies in the "Release Early and Release Often" ideal. The more involved a client is in 
+the development, the happier the client will be at the end of the project, usually. With 
+open source projects, this is the same ideal, except at a much larger scale. The only 
+difference is that the client is the same community that is helping develop these 
+projects. This comes with its own series of problems, namely that the client and the 
+community are extremely spread out geographically and temporally. The thing that makes 
+this particularly effective is the use of documentation in explaining what the code 
+actually does. In any development team, there is actually a guarantee that each 
+developer will be in some way different in thought process from another one on the team. 
+Documentation is a way that these thought processes can be reconciled and that a project 
+can be built. From a personal experience, this is extremely relevant to me, as I am not 
+amazing at the documentation side, as my variable names and comments tend to leave room 
+for improvement, something that I have been striving to fix. Looking through the open 
+source project that I have been working on, TEAMMATES, I have found really extensive 
+documentation which has helped a lot in getting me and my teammates acclimated to the 
+project, especially since the project is so mature and has stuck around for quite some 
+time. Obviously, there is no guarantee that the way done already is the right way or 
+that there is no better way to achieve something, but the main aspect of being part of a 
+team is figuring out those ways together, something that has been a very effective tool 
+in determining difficult problems and finding the most effective way to deliver a 
+functional product. This has really been a great exercise that the documentation has 
+helped on and made the project much easier to work with. 
