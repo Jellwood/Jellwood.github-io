@@ -235,4 +235,34 @@ that there is no better way to achieve something, but the main aspect of being p
 team is figuring out those ways together, something that has been a very effective tool 
 in determining difficult problems and finding the most effective way to deliver a 
 functional product. This has really been a great exercise that the documentation has 
-helped on and made the project much easier to work with. 
+helped on and made the project much easier to work with.  
+
+__Chapter 5__
+Chapter 5 talks about some very important topics with regards to any open-source 
+project: issue tracking, testing and debugging. Any mature open-source project, 
+especially as it pertains to the community on GitHub needs a few things in particular 
+and that is good community engagement and standards that are clearly visible to 
+anyone willing to contribute. My own experience with Teammates has really illuminated 
+the need for all of this, as any pull request made must automatically pass the testing 
+framework that they have outlined, which makes sure that any commits do not break the 
+existing website. The unit testing and end-to-end testing framework is huge for the 
+project and makes sure that the website is consistently running and providing its 
+service for its users. As well, the issue tracking service provided by GitHub is 
+used extensively to make sure that any contributor is able to engage with the 
+community at large. Of course, GitHub is not the only Version Control system, as just 
+about any Version Control system will usually have some way to track issues and make 
+engagement possible, although many projects, especially older ones have been known to 
+have a website to take the place of this, and I personally believe is a more archaic 
+form of version control as it is very easy for an end user to get caught up in the 
+developer resources and vice versa. Most projects that I have seen will have a website 
+where download links and such are in the website portion and developer resources are in 
+the GitHub (or other such version control) repository with links to each, which creates 
+a really great division of users and developers. Just as having little documentation 
+can intimidate developers, having a forum mixed of development questions and user 
+questions can make it extremely hard to determine just where to go to get help. Looking 
+at debugging and refactoring, it is no surprise that they is one of the hardest things 
+to effectively do. Writing code is easy, writing it well is hard to do. Because of this, 
+it becomes very important to do so. Different methods are used to make sure the 
+integrity of the code is maintained, but honestly, talking about debugging is second to 
+actually doing it. It is far too theoretical to be talked about and far too practical 
+to not be able to apply and because of that, it is glossed over a bit here.
