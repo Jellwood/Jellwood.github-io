@@ -299,4 +299,38 @@ alone could be extremely enticing to some projetts, especially those that may be
 local environment, something that stores a lot of data, but that data is unlikely to 
 change or grow significantly. However, like I said before, just being able to rent 
 another server when data is high and sell it off when data is a bit lower makes it 
-extremely enticing to avoid high overhead costs especially for open source projects.
+extremely enticing to avoid high overhead costs especially for open source projects.  
+
+__Chapter 9__
+Chapter 9 talks primarily about operational support of a project after installing it on 
+a client's server. Naturally, any development process is rife with problems and the 
+project itself will never be free of bugs, and support is huge for any project 
+developed for commercial use. Any software project will ultimately make its way to users 
+that are not used to software or certain programs and will need help navigating the 
+program to get done what they need to do. Even worse, the users that do know how to use 
+it will likely find ways to break it and use the program in unintended ways. In a far 
+cry from most service industries, the engineer's job is to make sure that the user can 
+not engage in these behaviors or at least make sure that the program does not break in 
+the replication of these bugs. For example, consider a software engineer as opposed to 
+an electrical engineer. A software engineer works on a project and one of the first 
+users finds a way to exploit a weakness in the program to break the program and the 
+developer is tasked with fixing the weakness. In contrast, the electrical engineer that 
+makes a circuitboard, and the first user finds a way to exploit some weakness to 
+misuse the circuitboard, and is electrocuted through no fault of the circuit board. Is 
+the electrical engineer at fault for not providing enough safety features, even if the 
+wires were insulated and the user stripped the wires? Because of this switch of 
+perspective, software engineers are required to provide robust support and patches for 
+after installation. This is not a condemnation of the idea of support, of course, the 
+software project will never be "complete" in a sense, the project will always have one 
+more bug, one more issue that may not be resolved until the end of the project's life 
+cycle, while the circuitboard can be completed. At some point, eventually, the 
+circuitboard will be "perfect" and not able to be exploited, and so support is 
+unnecessary. This schism means that support for software projects is extremely important 
+to ensure the maturity and continuation of projects. As for installation, that is more 
+or less a non-issue these days, most open source projects have robust documentation that 
+allows for any IT professional to install the project to a server and set everything up. 
+Of course, issues will occur and that is the job of the support, but installation is no 
+longer a specialized task. This really opens up the world for a significant shift away 
+towards only support opposed to installation and support. That said, the development 
+team is one of the most important parts of this support pipeline and any project needs 
+to ensure that this pipeline is good enough to draw in users to their project.
