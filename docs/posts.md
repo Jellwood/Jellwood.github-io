@@ -265,4 +265,38 @@ to effectively do. Writing code is easy, writing it well is hard to do. Because 
 it becomes very important to do so. Different methods are used to make sure the 
 integrity of the code is maintained, but honestly, talking about debugging is second to 
 actually doing it. It is far too theoretical to be talked about and far too practical 
-to not be able to apply and because of that, it is glossed over a bit here.
+to not be able to apply and because of that, it is glossed over a bit here.  
+
+__Chapter 6__
+Chapter 6 talks about designing databases as a part of a HFOSS project and determining 
+the correct ways to organize and create data storage for the project. The primary issue 
+talks a lot about normalization and making sure that the database expends the least 
+amount of energy to find the data needed. From what I have seen in my experience, 
+database design and implementation is one of the most least focused knowledge bases in 
+computer science. Having gone through a few interviews, it seemed like the database 
+questions that I was asked really had a big impact on how the interviewer saw me as a 
+professional and that made it much easier for me to feel at ease in the interview. In 
+addition to that, database design seems extremely easy to do, but difficult to do well 
+and that learning curve is instrumental in telling the difference between an engineer 
+and a developer. One thing that does make databases difficult to work with however is 
+the wide variety of tools that are not necessarily highlighted in a computer science 
+education. Of course, any computer science student is usually well versed in the 
+strengths of Java opposed to C opposed to Python and the list goes on. However, in the 
+domain of databases, it is much more difficult to determine whether to use SQL, SQLite, 
+PostgreSQL, NoSQL, or others as the list goes on and on. As a result, it becomes much, 
+much harder to determine whether which database system to use, especially as data moves 
+more to Cloud Computing. That said, as Cloud Computing grows, honestly, I could see more 
+and more applications moving to the Cloud to accumulate more data and a homogenized 
+data blob, while things like SQL and AWS Databases rise to the top of database 
+management. Any platform that works to use a database on a local instance would then 
+become a rarity, but those lessons of databases is just as important whether there is 
+only twenty gigabytes of data or twenty terabytes of data. Because of this, it is 
+extremely important to organize the data, especially scaling wise. Of course, the move 
+to cloud computing does not completely invalidate the older method of database design. 
+Any project that wants to spend money to set up their own data infrastructure and design 
+an entire server room with cooling and failsafes have that option still. That ability 
+alone could be extremely enticing to some projetts, especially those that may be a more 
+local environment, something that stores a lot of data, but that data is unlikely to 
+change or grow significantly. However, like I said before, just being able to rent 
+another server when data is high and sell it off when data is a bit lower makes it 
+extremely enticing to avoid high overhead costs especially for open source projects.
