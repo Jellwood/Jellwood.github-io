@@ -237,7 +237,7 @@ in determining difficult problems and finding the most effective way to deliver 
 functional product. This has really been a great exercise that the documentation has 
 helped on and made the project much easier to work with.  
 
-__Chapter 5__
+__Chapter 5__  
 Chapter 5 talks about some very important topics with regards to any open-source 
 project: issue tracking, testing and debugging. Any mature open-source project, 
 especially as it pertains to the community on GitHub needs a few things in particular 
@@ -267,7 +267,7 @@ integrity of the code is maintained, but honestly, talking about debugging is se
 actually doing it. It is far too theoretical to be talked about and far too practical 
 to not be able to apply and because of that, it is glossed over a bit here.  
 
-__Chapter 6__
+__Chapter 6__  
 Chapter 6 talks about designing databases as a part of a HFOSS project and determining 
 the correct ways to organize and create data storage for the project. The primary issue 
 talks a lot about normalization and making sure that the database expends the least 
@@ -301,7 +301,7 @@ change or grow significantly. However, like I said before, just being able to re
 another server when data is high and sell it off when data is a bit lower makes it 
 extremely enticing to avoid high overhead costs especially for open source projects.  
 
-__Chapter 9__
+__Chapter 9__  
 Chapter 9 talks primarily about operational support of a project after installing it on 
 a client's server. Naturally, any development process is rife with problems and the 
 project itself will never be free of bugs, and support is huge for any project 
@@ -333,4 +333,32 @@ Of course, issues will occur and that is the job of the support, but installatio
 longer a specialized task. This really opens up the world for a significant shift away 
 towards only support opposed to installation and support. That said, the development 
 team is one of the most important parts of this support pipeline and any project needs 
-to ensure that this pipeline is good enough to draw in users to their project.
+to ensure that this pipeline is good enough to draw in users to their project.  
+
+__Meeting Charleston__  
+In Meeting Charleston, I attended the Women in Tech meeting discussing building a brand 
+on social media. This meeting felt a lot like the class where we met with Richard Bliss 
+and talked about a LinkedIn presence and presenting yourself in the best light, 
+particularly on that site. However, this meeting was different in the sense that the 
+meeting focused on all social media, such as Facebook and Twitter. With Facebook being 
+arguably the biggest social media site, it would make sense that employers take a lot of 
+stock in what that presence looks like, especially in new hires. What groups and people 
+that these hires talk to and associate with can tell the managers a lot about a person. 
+Because of this, the biggest advice was to have both a business and personal Facebook 
+account to keep a public face without having to worry too much about your professional 
+and personal life mixing to a problematic extent. While this is a significant solution, 
+obviously there are some issues inherent in that idea. There will never be able to get a 
+clear division especially as time goes on and it becomes easier to find out any profiles 
+that may or may not be your personal account. On top of this, according to Facebook, 
+they are cracking down more and more on fake accounts or accounts that they believe are 
+not made in good faith. With that in mind, it is entirely possible that either of these 
+accounts could be banned at any point in time. This makes this feel more or less like a 
+job as both accounts need to be active in order to dodge a ban. The best solution based 
+on this information is honestly to not engage in this particularly. As the issue of 
+fake news issues engages and encapsulates the American psyche, it is much and much 
+harder to definitively be able to make your digital presence that is not consistently 
+active. This solution may have worked really well in years past, anyone who was on 
+Facebook in the late 2000s probably remembers their friends having multiple accounts, 
+especially if they were in high school, where parents could easily see their kids' 
+activities. In those days, it becomes very easy to create these accounts. In today's 
+world, it becomes much harder to do so. 
